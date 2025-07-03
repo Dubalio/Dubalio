@@ -1,7 +1,7 @@
-## Hi there 👋
-🔭Throughout my life I have developed a great passion for mathematics, standing out academically during my school years.
-As I have been researching and investigating the different areas of engineering, I have realized that technology is advancing by leaps and bounds, with many challenges ahead for the world and I would like to be part of that future.
-I am currently studying industrial civil engineering and computer civil engineering, which are two areas that I know will take me to the future that I hope for.😄
+## Hi there 👋  
+I'm Dubalio — a dual-degree engineer in Industrial Engineering and Computer Science, passionate about building impactful tech products.
+
+I'm driven by data, inspired by technology, and enthusiastic about the startup ecosystem — dreaming of one day joining Y Combinator 🚀
 
 <!--
 **Dubalio/Dubalio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
